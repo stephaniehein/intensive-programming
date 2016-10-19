@@ -1,0 +1,125 @@
+body {
+	background-color: #ffe6ff;
+	text-align: center;
+
+}
+
+h1 {
+	text-align: center;
+}
+
+ol {
+	background-color: #ff99bb;
+	padding: 20px;
+	width: 20%;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+ol li {
+	background-color: #ffe6ff;
+	margin: 5px;
+	padding: 5px;
+
+}
+
+.clouds {
+	background-image: url("../img/zuckerwatte.jpg");
+}
+
+/* Table starts here */ 
+
+table, th, td {
+    border-collapse: collapse;
+    padding: 10px; 
+    text-align: center;
+
+}
+
+table{
+	width: 50%;
+	margin: 0 auto;
+}
+
+th{
+	background-color: #ff99bb;
+	color: #ffffff;
+}
+
+tr:hover td {background-color: #b3ffff}
+tr:nth-child(even) {background-color: #bfbfbf}
+tr:nth-child(odd) {background-color: #ffffff}
+
+/* End of table */ 
+
+h3 {
+	text-align: center;
+}
+
+
+
+
+
+.float-left {
+	float: left;
+}
+
+.row {
+	display: inline-block;
+}
+
+.margin-top {
+
+	margin-top: 160px;
+	font-family: "Arial";
+	font-size: 20px;
+}
+
+/* Neue Übung:; */ 
+
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
+}
+
+.navigation {
+	margin-top: 50px; 
+	background-color: #ff99bb;
+	color: #ffffff;
+	height: 50px;
+}
+
+.body{
+	background-color: #ffffff;
+	height: 100px;
+	
+}
+
+.menu {
+	display: inline-block;
+	width: 50%;
+
+}
+
+.left-section {
+	float: left;
+	background-color: #ffffff;
+	border-right: 1px solid black;
+}
+
+.right-section {
+	float: right;
+	background-color: #ffffff;
+	
+}
+
+.footer {
+	background-color: #ff99bb;
+	color: #ffffff;
+	height: 30px;
+}

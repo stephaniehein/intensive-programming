@@ -1,0 +1,38 @@
+body{
+	background-color: #d6f5f5; 
+	color: #4d004d;
+	font-size: 150%; 
+
+	
+}
+
+p{
+	color: #a3a3c2; 
+	font-size: 100%;
+
+}
+
+h2{
+
+	font-size: 200%;
+	color: #ff0066; 
+}
+
+.bold{
+
+	font-weight:bold;
+}
+
+.image-large {
+	width: 500px;
+}
+
+.image-medium {
+	width: 200px;
+}
+
+
+img{
+	display: inline-block;
+	width: 200px;
+}

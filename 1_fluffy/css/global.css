@@ -1,0 +1,25 @@
+body{
+	background-color: #ff80ff;
+	color:#001a33;
+	text-align: center;
+}
+
+h2 {
+	color: #660066;
+}
+
+ul{
+	text-align: left;
+	font-size: large;
+}
+
+.backgroundclouds {
+	background-image: url("../img/clouds.jpg");
+
+
+}
+
+img{
+	max-width: 100%;
+
+}
