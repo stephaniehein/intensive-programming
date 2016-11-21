@@ -1,0 +1,16 @@
+.newsletter{
+	background-color: #d1e8ce;
+	text-align: center;
+	padding: 30px;
+	margin: 30px;
+
+}
+
+img {
+	max-width: 500px;
+	padding-top: 20px;
+}
+
+.newsletterName {
+	color: #55755c;
+}
